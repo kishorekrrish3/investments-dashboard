@@ -6,6 +6,9 @@ This application is built as a **long-term financial source of truth**. Even if 
 
 ---
 
+> **Project status:** Personal finance tracking software, not financial advice. Verify imported transactions, holdings, corporate actions, and market data against primary statements/providers before making investment decisions.
+
+
 ## 🌟 Key Architecture & Highlights
 
 - **100% Free / Open-Source Architecture (₹0/month)**:
